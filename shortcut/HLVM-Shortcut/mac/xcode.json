@@ -1,8 +1,8 @@
 {
     "appName": "Xcode",
-    "shortcuts": {
+    "shortcuts": [{
         "shortcut":"⌥⇧⌘↩",
         "shortcutName":"Show Code Review",
-        "imageUrl": "" 
-    }
+        "imageUrl": ""
+    }]
 }

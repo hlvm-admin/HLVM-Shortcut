@@ -1,8 +1,20 @@
 {
     "appName": "Xcode",
-    "shortcuts": [{
-        "shortcut":"⌥⇧⌘↩",
-        "shortcutName":"Show Code Review",
-        "imageUrl": ""
-    }]
+    "shortcuts": [
+        {
+            "shortcut":"⌥⇧⌘↩",
+            "shortcutName":"Show Code Review",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⇧⌘2",
+            "shortcutName":"Organizer",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⇧⌘1",
+            "shortcutName": "Welcome to Xcode",
+            "imageUrl": ""
+        }
+    ]
 }

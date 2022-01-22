@@ -10,11 +10,6 @@
             "shortcut":"⇧⌘1",
             "shortcutName": "Welcome to Xcode",
             "imageUrl": ""
-        }, 
-        {
-            "shortcut":"⌘R",
-            "shortcutName": "Run",
-            "imageUrl": ""
         }
     ]
 }

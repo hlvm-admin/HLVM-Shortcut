@@ -5,11 +5,6 @@
             "shortcut":"⌥⇧⌘↩",
             "shortcutName":"Show Code Review",
             "imageUrl": ""
-        },
-        {
-            "shortcut":"⇧⌘1",
-            "shortcutName": "Welcome to Xcode",
-            "imageUrl": ""
         }
     ]
 }

@@ -7,11 +7,6 @@
             "imageUrl": ""
         },
         {
-            "shortcut":"⇧⌘2",
-            "shortcutName":"Organizer",
-            "imageUrl": ""
-        },
-        {
             "shortcut":"⇧⌘1",
             "shortcutName": "Welcome to Xcode",
             "imageUrl": ""

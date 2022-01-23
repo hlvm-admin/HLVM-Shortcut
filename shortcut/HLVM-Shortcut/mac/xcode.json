@@ -4,12 +4,12 @@
         {
             "shortcut":"⌥⇧⌘↩",
             "shortcutName":"Show Code Review",
-            "infoUrl": ""
+            "infoUrlString": ""
         }, 
         {
             "shortcut":"⇧⌘1",
             "shortcutName": "Welcome to Xcode",
-            "infoUrl": ""
+            "infoUrlString": ""
         }
     ]
 }

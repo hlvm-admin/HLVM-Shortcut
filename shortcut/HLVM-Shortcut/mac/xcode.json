@@ -10,6 +10,36 @@
             "shortcut":"⇧⌘1",
             "shortcutName": "Welcome to Xcode",
             "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘↩",
+            "shortcutName": "Show Editor Only",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘↩",
+            "shortcutName": "Live Preview SwiftUI",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌃⌥⌘↩",
+            "shortcutName": "Assistant",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⇧⌘L",
+            "shortcutName": "Show Library",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌃⇧⌘A",
+            "shortcutName": "Authors",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌃⇧⌘M",
+            "shortcutName": "Minimap",
+            "infoUrlString": ""
         }
     ]
 }

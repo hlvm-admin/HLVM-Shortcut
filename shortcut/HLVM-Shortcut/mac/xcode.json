@@ -12,11 +12,6 @@
             "infoUrlString": ""
         },
         {
-            "shortcut":"⌘\",
-            "shortcutName": "Create Breakpoint at Current line",
-            "infoUrlString": ""
-        },
-        {
             "shortcut":"⌘Y",
             "shortcutName": "Deactivate Breakpoint",
             "infoUrlString": ""

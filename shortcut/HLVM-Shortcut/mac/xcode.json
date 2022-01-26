@@ -2,6 +2,11 @@
     "appName": "Xcode",
     "shortcuts": [
         {
+            "shortcut":"⌘⌥P",
+            "shortcutName": "Resume Preview (SwiftUI)",
+            "infoUrlString": ""
+        },
+        {
             "shortcut":"⌃⌘Y",
             "shortcutName": "Continue/Pause App",
             "infoUrlString": ""

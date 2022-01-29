@@ -1,0 +1,26 @@
+{
+    "appName": "Safari",
+    "shortcuts": [
+        {
+            "shortcut":"⌥⌘I",
+            "shortcutName":"Toggle Web Inspector",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⇧⌘T",
+            "shortcutName": "Reopen Last Closed Tab",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌘Y",
+            "shortcutName": "Show All History",
+            "imageUrl": ""
+        }, 
+        {
+            "shortcut":"⌘.",
+            "shortcutName": "Preference",
+            "imageUrl": ""
+        }
+    ]
+}
+

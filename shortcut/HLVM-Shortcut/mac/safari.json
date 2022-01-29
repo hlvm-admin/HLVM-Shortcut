@@ -13,11 +13,11 @@
         },
         {
             "shortcut":"⌘Y",
-            "shortcutName": "Show All History",
+            "shortcutName": "Toggle All History",
             "imageUrl": ""
         }, 
         {
-            "shortcut":"⌘.",
+            "shortcut":"⌘,",
             "shortcutName": "Preference",
             "imageUrl": ""
         }

@@ -2,14 +2,319 @@
     "appName": "Xcode",
     "shortcuts": [
         {
-            "shortcut":"⌥⇧⌘↩",
-            "shortcutName":"Show Code Review",
-            "imageUrl": ""
+            "shortcut":"⌘⌥P",
+            "shortcutName": "Resume Preview (SwiftUI)",
+            "infoUrlString": ""
         },
+        {
+            "shortcut":"⌃⌘Y",
+            "shortcutName": "Continue/Pause App",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘T",
+            "shortcutName": "Toggle Toolbar",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘Y",
+            "shortcutName": "Deactivate Breakpoint",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⌥←",
+            "shortcutName": "Fold",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⌥→",
+            "shortcutName": "Unfold",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⌥⇧←",
+            "shortcutName": "Fold All",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⌥⇧→",
+            "shortcutName": "Unfold All",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌃⌘⇧←",
+            "shortcutName": "Fold Comment Block",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌃⌘⇧→",
+            "shortcutName": "Unfold Comment Block",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌃⌘→",
+            "shortcutName": "Go Forward",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌃⌘←",
+            "shortcutName": "Go Back",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌘J",
+            "shortcutName": "Move focus to Editor",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘R",
+            "shortcutName": "Run",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌘B",
+            "shortcutName": "Build",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌘U",
+            "shortcutName": "Test",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌘I",
+            "shortcutName": "Profile",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⇧⌘B",
+            "shortcutName": "Static Analyze",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⇧⌘K",
+            "shortcutName": "Clean Build Folder",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌘.",
+            "shortcutName": "Stop",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌥⇧⌘↩",
+            "shortcutName":"Toggle Code Review",
+            "infoUrlString": ""
+        }, 
         {
             "shortcut":"⇧⌘1",
             "shortcutName": "Welcome to Xcode",
-            "imageUrl": ""
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘↩",
+            "shortcutName": "Show Editor Only",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘↩",
+            "shortcutName": "Toggle Preview Editor (SwiftUI)",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌃⌥⌘↩",
+            "shortcutName": "Toggle Assistant Editor",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⇧⌘L",
+            "shortcutName": "Show Library",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌘6",
+            "shortcutName": "Show Document Items",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌃⇧⌘A",
+            "shortcutName": "Toggle Authors",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌃⇧⌘M",
+            "shortcutName": "Toggle Minimap",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⇧⌘2",
+            "shortcutName": "Device and Simulators",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌥⇧⌘O",
+            "shortcutName": "Organizer",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⇧Y",
+            "shortcutName": "Toggle Debug Area",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌘⇧O",
+            "shortcutName": "Open Quickly",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘N",
+            "shortcutName":"New File",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⇧N",
+            "shortcutName": "New Project",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘⇧N",
+            "shortcutName": "New Playground",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘⇧N",
+            "shortcutName": "New Playground",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘1",
+            "shortcutName": "Navigators Project",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘2",
+            "shortcutName": "Navigators Source Control",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘3",
+            "shortcutName": "Navigators Symbols",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘4",
+            "shortcutName": "Navigators Find",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘5",
+            "shortcutName": "Navigators Issues",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘6",
+            "shortcutName": "Navigators Tests",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘7",
+            "shortcutName": "Navigators Debug",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘8",
+            "shortcutName": "Navigators Breakpoints",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘9",
+            "shortcutName": "Navigators Reports",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘0",
+            "shortcutName": "Toggle Navigators",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘1",
+            "shortcutName": "Inspectors File",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘2",
+            "shortcutName": "Inspectors History",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘3",
+            "shortcutName": "Inspectors Quick Help",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘4",
+            "shortcutName": "Inspectors Attributes",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘5",
+            "shortcutName": "Inspectors Accessibility",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⌘0",
+            "shortcutName": "Toggle Inspectors",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥⇧F",
+            "shortcutName": "Find in Project",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⌥⇧F",
+            "shortcutName": "Find and Replace in Project",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌥F",
+            "shortcutName": "Find",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⌥F",
+            "shortcutName": "Find and Replace",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⇧A",
+            "shortcutName": "Show Code Action",
+            "infoUrlString": ""
+        },
+         {
+            "shortcut":"⌃⌘E",
+            "shortcutName": "Edit All in Scope",
+            "infoUrlString": ""
+        },
+         {
+            "shortcut":"⌃I",
+            "shortcutName": "Reindentation",
+            "infoUrlString": ""
+        },
+         {
+            "shortcut":"⌘]",
+            "shortcutName": "Indent Right",
+            "infoUrlString": ""
+        },
+         {
+            "shortcut":"⌘[",
+            "shortcutName": "Indent Left",
+            "infoUrlString": ""
+        },
+         {
+            "shortcut":"⌘,",
+            "shortcutName": "Preferences",
+            "infoUrlString": ""
         }
     ]
 }

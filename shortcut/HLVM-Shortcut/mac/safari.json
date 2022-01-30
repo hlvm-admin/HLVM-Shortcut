@@ -1,6 +1,41 @@
 {
     "appName": "Safari",
     "shortcuts": [
+         {
+            "shortcut":"⌘L",
+            "shortcutName": "Move focus to URL",
+            "imageUrl": ""
+        },
+         {
+            "shortcut":"⌘→",
+            "shortcutName": "Go Forward",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌘←",
+            "shortcutName": "Go Back",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⇧⌘L",
+            "shortcutName": "Toggle SideBar",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌥⌘L",
+            "shortcutName": "Toggle Download",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌘-",
+            "shortcutName": "Zoom out",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌘+",
+            "shortcutName": "Zoon in",
+            "imageUrl": ""
+        },
         {
             "shortcut":"⌘R",
             "shortcutName": "Reload",
@@ -23,7 +58,7 @@
         }, 
         {
             "shortcut":"⌘,",
-            "shortcutName": "Preference",
+            "shortcutName": "Show Preference",
             "imageUrl": ""
         }
     ]

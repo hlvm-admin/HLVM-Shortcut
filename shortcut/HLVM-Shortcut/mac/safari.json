@@ -2,6 +2,11 @@
     "appName": "Safari",
     "shortcuts": [
         {
+            "shortcut":"⌘R",
+            "shortcutName": "Reload",
+            "imageUrl": ""
+        },
+        {
             "shortcut":"⌥⌘I",
             "shortcutName":"Toggle Web Inspector",
             "imageUrl": ""

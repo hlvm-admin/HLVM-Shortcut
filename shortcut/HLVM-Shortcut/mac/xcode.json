@@ -2,6 +2,11 @@
     "appName": "Xcode",
     "shortcuts": [
         {
+            "shortcut":"⌘⌥,",
+            "shortcutName": "Open in Next Editor",
+            "infoUrlString": ""
+        },
+        {
             "shortcut":"⌘⌥P",
             "shortcutName": "Resume Preview (SwiftUI)",
             "infoUrlString": ""

@@ -38,12 +38,12 @@
         },
         {
             "shortcut":"⌘⌥⇧←",
-            "shortcutName": "Fold All",
+            "shortcutName": "Fold All Code Block",
             "infoUrlString": ""
         },
         {
             "shortcut":"⌘⌥⇧→",
-            "shortcutName": "Unfold All",
+            "shortcutName": "Unfold All Code Block",
             "infoUrlString": ""
         }, 
         {
@@ -123,7 +123,7 @@
         },
         {
             "shortcut":"⌥⌘↩",
-            "shortcutName": "Toggle Preview Editor (SwiftUI)",
+            "shortcutName": "Toggle Live Preview Editor (SwiftUI)",
             "infoUrlString": ""
         },
         {
@@ -163,7 +163,7 @@
         },
         {
             "shortcut":"⌘⇧Y",
-            "shortcutName": "Toggle Debug Area",
+            "shortcutName": "Toggle Console (Debug) Area",
             "infoUrlString": ""
         }, 
         {

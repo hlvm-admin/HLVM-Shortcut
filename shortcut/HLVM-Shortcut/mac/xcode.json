@@ -282,13 +282,13 @@
             "infoUrlString": ""
         },
         {
-            "shortcut":"⌥F",
-            "shortcutName": "Find",
+            "shortcut":"⌘F",
+            "shortcutName": "Find In a file",
             "infoUrlString": ""
         },
         {
             "shortcut":"⌘⌥F",
-            "shortcutName": "Find and Replace",
+            "shortcutName": "Find and Replace In a file",
             "infoUrlString": ""
         },
         {

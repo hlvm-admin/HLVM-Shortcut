@@ -43,7 +43,7 @@
         },
         {
             "shortcut":"⌥⌘I",
-            "shortcutName":"Toggle Web Inspector",
+            "shortcutName":"Toggle Developer Tool (Web Inspector)",
             "imageUrl": ""
         },
         {

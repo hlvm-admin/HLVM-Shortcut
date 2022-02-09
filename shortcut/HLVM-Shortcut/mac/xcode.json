@@ -72,6 +72,11 @@
             "infoUrlString": ""
         },
         {
+            "shortcut":"⇧⌘C",
+            "shortcutName": "Move focus to Debug (Console) Area",
+            "infoUrlString": ""
+        },
+        {
             "shortcut":"⌘R",
             "shortcutName": "Run",
             "infoUrlString": ""

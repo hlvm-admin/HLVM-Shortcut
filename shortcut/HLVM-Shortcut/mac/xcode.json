@@ -2,7 +2,7 @@
     "appName": "Xcode",
     "shortcuts": [
         {
-            "shortcut":"⌘I,",
+            "shortcut":"⌘I",
             "shortcutName": "Instruments",
             "infoUrlString": ""
         },

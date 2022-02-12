@@ -1,0 +1,15 @@
+{
+    "appName": "Xcode",
+    "shortcuts": [
+        {
+            "shortcut":"⌃⌥-",
+            "shortcutName": "Go Forward",
+            "infoUrlString": ""
+        }, 
+        {
+            "shortcut":"⌃-",
+            "shortcutName": "Go Back",
+            "infoUrlString": ""
+        }
+    ]
+}

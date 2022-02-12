@@ -1,0 +1,42 @@
+{
+    "appName": "hlvm",
+    "shortcuts": [
+        {
+            "shortcutName": "Go Forward",
+            "shortcut":"@Xcode",
+            "infoUrlString": "",
+            "apps": [
+                {
+                    "appName": "Xcode",
+                    "shortcutName": "Go Forward"
+                },
+                {
+                    "appName": "visual_studio_code",
+                    "shortcutName": "Go Forward"
+                },
+                {
+                    "appName": "android_studio",
+                    "shortcutName": ""
+                }
+            ]
+        }, 
+        {
+            "shortcutName": "Go Back",
+            "shortcut":"@Xcode",
+            "infoUrlString": "",
+            "apps": [
+                {
+                    "appName": "Xcode",
+                    "shortcutName": "Go Back"
+                },
+                {
+                    "appName": "visual_studio_code",
+                    "shortcutName": "Go Back"
+                },
+                {
+                    "appName": "android_studio"
+                }
+            ]
+        }
+    ]
+}

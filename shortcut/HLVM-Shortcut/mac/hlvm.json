@@ -9,10 +9,12 @@
             "shortcuts": [
                 {
                     "appName": "Xcode",
+                    "shortcut":"⌃⌘→",
                     "shortcutName": "Go Forward"
                 },
                 {
                     "appName": "visual_studio_code",
+                    "shortcut":"⌃⌥-",
                     "shortcutName": "Go Forward"
                 },
                 {
@@ -29,10 +31,12 @@
             "shortcuts": [
                 {
                     "appName": "Xcode",
+                    "shortcut":"⌃⌘←",
                     "shortcutName": "Go Back"
                 },
                 {
                     "appName": "visual_studio_code",
+                    "shortcut":"⌃-",
                     "shortcutName": "Go Back"
                 },
                 {

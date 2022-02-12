@@ -1,9 +1,49 @@
 {
     "appName": "Safari",
     "shortcuts": [
+         {
+            "shortcut":"⌘L",
+            "shortcutName": "Move focus to URL",
+            "imageUrl": ""
+        },
+         {
+            "shortcut":"⌘→",
+            "shortcutName": "Go Forward",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌘←",
+            "shortcutName": "Go Back",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⇧⌘L",
+            "shortcutName": "Toggle SideBar",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌥⌘L",
+            "shortcutName": "Toggle Download",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌘-",
+            "shortcutName": "Zoom out",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌘+",
+            "shortcutName": "Zoon in",
+            "imageUrl": ""
+        },
+        {
+            "shortcut":"⌘R",
+            "shortcutName": "Reload",
+            "imageUrl": ""
+        },
         {
             "shortcut":"⌥⌘I",
-            "shortcutName":"Toggle Web Inspector",
+            "shortcutName":"Toggle Developer Tool (Web Inspector)",
             "imageUrl": ""
         },
         {
@@ -13,12 +53,12 @@
         },
         {
             "shortcut":"⌘Y",
-            "shortcutName": "Show All History",
+            "shortcutName": "Toggle All History",
             "imageUrl": ""
         }, 
         {
-            "shortcut":"⌘.",
-            "shortcutName": "Preference",
+            "shortcut":"⌘,",
+            "shortcutName": "Show Preference",
             "imageUrl": ""
         }
     ]

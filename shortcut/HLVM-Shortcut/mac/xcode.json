@@ -2,6 +2,16 @@
     "appName": "Xcode",
     "shortcuts": [
         {
+            "shortcut":"⌘I",
+            "shortcutName": "Instruments",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⌘⌥,",
+            "shortcutName": "Open in Next Editor",
+            "infoUrlString": ""
+        },
+        {
             "shortcut":"⌘⌥P",
             "shortcutName": "Resume Preview (SwiftUI)",
             "infoUrlString": ""
@@ -18,7 +28,7 @@
         },
         {
             "shortcut":"⌘Y",
-            "shortcutName": "Deactivate Breakpoint",
+            "shortcutName": "Toggle All Breakpoint To Activate/Deactivate ",
             "infoUrlString": ""
         },
         {
@@ -33,12 +43,12 @@
         },
         {
             "shortcut":"⌘⌥⇧←",
-            "shortcutName": "Fold All",
+            "shortcutName": "Fold All Code Block",
             "infoUrlString": ""
         },
         {
             "shortcut":"⌘⌥⇧→",
-            "shortcutName": "Unfold All",
+            "shortcutName": "Unfold All Code Block",
             "infoUrlString": ""
         }, 
         {
@@ -64,6 +74,11 @@
         {
             "shortcut":"⌘J",
             "shortcutName": "Move focus to Editor",
+            "infoUrlString": ""
+        },
+        {
+            "shortcut":"⇧⌘C",
+            "shortcutName": "Move focus to Debug (Console) Area",
             "infoUrlString": ""
         },
         {
@@ -118,7 +133,7 @@
         },
         {
             "shortcut":"⌥⌘↩",
-            "shortcutName": "Toggle Preview Editor (SwiftUI)",
+            "shortcutName": "Toggle Live Preview Editor (SwiftUI)",
             "infoUrlString": ""
         },
         {
@@ -158,7 +173,7 @@
         },
         {
             "shortcut":"⌘⇧Y",
-            "shortcutName": "Toggle Debug Area",
+            "shortcutName": "Toggle Console (Debug) Area",
             "infoUrlString": ""
         }, 
         {
@@ -277,13 +292,13 @@
             "infoUrlString": ""
         },
         {
-            "shortcut":"⌥F",
-            "shortcutName": "Find",
+            "shortcut":"⌘F",
+            "shortcutName": "Find In a file",
             "infoUrlString": ""
         },
         {
             "shortcut":"⌘⌥F",
-            "shortcutName": "Find and Replace",
+            "shortcutName": "Find and Replace In a file",
             "infoUrlString": ""
         },
         {

@@ -2,10 +2,11 @@
     "appName": "hlvm",
     "shortcuts": [
         {
+            "appName": "hlvm",
+            "shortcut":"⌃⌥-",
             "shortcutName": "Go Forward",
-            "shortcut":"@Xcode",
             "infoUrlString": "",
-            "apps": [
+            "shortcuts": [
                 {
                     "appName": "Xcode",
                     "shortcutName": "Go Forward"
@@ -21,10 +22,11 @@
             ]
         }, 
         {
+            "appName": "hlvm",
+            "shortcut":"⌃-",
             "shortcutName": "Go Back",
-            "shortcut":"@Xcode",
             "infoUrlString": "",
-            "apps": [
+            "shortcuts": [
                 {
                     "appName": "Xcode",
                     "shortcutName": "Go Back"
@@ -34,7 +36,8 @@
                     "shortcutName": "Go Back"
                 },
                 {
-                    "appName": "android_studio"
+                    "appName": "android_studio",
+                    "shortcutName": "Go Back"
                 }
             ]
         }

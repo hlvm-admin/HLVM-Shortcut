@@ -1,12 +1,14 @@
 {
-    "appName": "Xcode",
+    "appName": "Visual_Studio_Code",
     "shortcuts": [
         {
+            "appName": "Visual_Studio_Code",
             "shortcut":"⌃⌥-",
             "shortcutName": "Go Forward",
             "infoUrlString": ""
         }, 
         {
+            "appName": "Visual_Studio_Code",
             "shortcut":"⌃-",
             "shortcutName": "Go Back",
             "infoUrlString": ""

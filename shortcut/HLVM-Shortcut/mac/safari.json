@@ -2,61 +2,73 @@
     "appName": "Safari",
     "shortcuts": [
          {
+            "appName": "Safari",
             "shortcut":"⌘L",
             "shortcutName": "Move focus to URL",
             "imageUrl": ""
         },
          {
+            "appName": "Safari",
             "shortcut":"⌘→",
             "shortcutName": "Go Forward",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⌘←",
             "shortcutName": "Go Back",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⇧⌘L",
             "shortcutName": "Toggle SideBar",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⌥⌘L",
             "shortcutName": "Toggle Download",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⌘-",
             "shortcutName": "Zoom out",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⌘+",
             "shortcutName": "Zoon in",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⌘R",
             "shortcutName": "Reload",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⌥⌘I",
             "shortcutName":"Toggle Developer Tool (Web Inspector)",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⇧⌘T",
             "shortcutName": "Reopen Last Closed Tab",
             "imageUrl": ""
         },
         {
+            "appName": "Safari",
             "shortcut":"⌘Y",
             "shortcutName": "Toggle All History",
             "imageUrl": ""
         }, 
         {
+            "appName": "Safari",
             "shortcut":"⌘,",
             "shortcutName": "Show Preference",
             "imageUrl": ""

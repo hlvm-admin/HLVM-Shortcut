@@ -19,7 +19,8 @@
                 },
                 {
                     "appName": "android_studio",
-                    "shortcutName": ""
+                    "shortcut":"⌘⌥→",
+                    "shortcutName": "Go Forward"
                 }
             ]
         }, 
@@ -41,6 +42,7 @@
                 },
                 {
                     "appName": "android_studio",
+                    "shortcut": "⌘⌥←",
                     "shortcutName": "Go Back"
                 }
             ]

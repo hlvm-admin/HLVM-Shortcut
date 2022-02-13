@@ -21,6 +21,21 @@
                     "appName": "android_studio",
                     "shortcut":"⌘⌥→",
                     "shortcutName": "Go Forward"
+                }, 
+                {
+                    "appName": "Firefox",
+                    "shortcut":"⌘→",
+                    "shortcutName": "Go Forward"
+                },
+                {
+                    "appName": "Safari",
+                    "shortcut":"⌘→",
+                    "shortcutName": "Go Forward"
+                },
+                {
+                    "appName": "Chrome",
+                    "shortcut":"⌘→",
+                    "shortcutName": "Go Forward"
                 }
             ]
         }, 
@@ -43,6 +58,21 @@
                 {
                     "appName": "android_studio",
                     "shortcut": "⌘⌥←",
+                    "shortcutName": "Go Back"
+                }, 
+                                {
+                    "appName": "Firefox",
+                    "shortcut":"⌘←",
+                    "shortcutName": "Go Back"
+                },
+                {
+                    "appName": "Safari",
+                    "shortcut":"⌘←",
+                    "shortcutName": "Go Back"
+                },
+                {
+                    "appName": "Chrome",
+                    "shortcut":"⌘←",
                     "shortcutName": "Go Back"
                 }
             ]

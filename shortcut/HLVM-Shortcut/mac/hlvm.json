@@ -24,17 +24,17 @@
                 }, 
                 {
                     "appName": "Firefox",
-                    "shortcut":"⌘→",
+                    "shortcut":"⌘]",
                     "shortcutName": "Go Forward"
                 },
-                {
+                {                    
                     "appName": "Safari",
-                    "shortcut":"⌘→",
+                    "shortcut":"⌘]",
                     "shortcutName": "Go Forward"
                 },
                 {
                     "appName": "Chrome",
-                    "shortcut":"⌘→",
+                    "shortcut":"⌘]",
                     "shortcutName": "Go Forward"
                 }
             ]
@@ -60,19 +60,19 @@
                     "shortcut": "⌘⌥←",
                     "shortcutName": "Go Back"
                 }, 
-                                {
+                {
                     "appName": "Firefox",
-                    "shortcut":"⌘←",
+                    "shortcut":"⌘[",
                     "shortcutName": "Go Back"
                 },
                 {
                     "appName": "Safari",
-                    "shortcut":"⌘←",
+                    "shortcut":"⌘[",
                     "shortcutName": "Go Back"
                 },
                 {
                     "appName": "Chrome",
-                    "shortcut":"⌘←",
+                    "shortcut":"⌘[",
                     "shortcutName": "Go Back"
                 }
             ]

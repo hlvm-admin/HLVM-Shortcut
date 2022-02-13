@@ -13,12 +13,12 @@
                     "shortcutName": "Go Forward"
                 },
                 {
-                    "appName": "visual_studio_code",
+                    "appName": "visual studio code",
                     "shortcut":"⌃⇧-",
                     "shortcutName": "Go Forward"
                 },
                 {
-                    "appName": "android_studio",
+                    "appName": "android studio",
                     "shortcut":"⌘⌥→",
                     "shortcutName": "Go Forward"
                 }, 
@@ -51,12 +51,12 @@
                     "shortcutName": "Go Back"
                 },
                 {
-                    "appName": "visual_studio_code",
+                    "appName": "visual studio code",
                     "shortcut":"⌃-",
                     "shortcutName": "Go Back"
                 },
                 {
-                    "appName": "android_studio",
+                    "appName": "android studio",
                     "shortcut": "⌘⌥←",
                     "shortcutName": "Go Back"
                 }, 

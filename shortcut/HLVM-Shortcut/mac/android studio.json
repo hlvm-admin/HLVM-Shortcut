@@ -1,14 +1,14 @@
 {
-    "appName": "android_studio",
+    "appName": "android studio",
     "shortcuts": [
         {
-            "appName": "android_studio",
+            "appName": "android studio",
             "shortcut":"⌘⌥→",
             "shortcutName": "Go Forward",
             "infoUrlString": ""
         }, 
         {
-            "appName": "android_studio",
+            "appName": "android studio",
             "shortcut": "⌘⌥←",
             "shortcutName": "Go Back",
             "infoUrlString": ""

@@ -3,7 +3,7 @@
     "shortcuts": [
         {
             "appName": "Visual_Studio_Code",
-            "shortcut":"⌃⌥-",
+            "shortcut":"⌃⇧-",
             "shortcutName": "Go Forward",
             "infoUrlString": ""
         }, 

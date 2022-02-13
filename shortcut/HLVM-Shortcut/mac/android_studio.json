@@ -1,0 +1,17 @@
+{
+    "appName": "android_studio",
+    "shortcuts": [
+        {
+            "appName": "android_studio",
+            "shortcut":"⌘⌥→",
+            "shortcutName": "Go Forward",
+            "infoUrlString": ""
+        }, 
+        {
+            "appName": "android_studio",
+            "shortcut": "⌘⌥←",
+            "shortcutName": "Go Back",
+            "infoUrlString": ""
+        }
+    ]
+}

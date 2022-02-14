@@ -3,6 +3,198 @@
     "shortcuts": [
         {
             "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘N",
+            "shortcutName": "New window/instance",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘W",
+            "shortcutName": "Close window/instance",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘,",
+            "shortcutName": "User Settings",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘K",
+            "shortcutName": "Keyboard Shortcuts",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘X",
+            "shortcutName": "Cut line",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘C",
+            "shortcutName": "Copy line",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌥↓",
+            "shortcutName": "Move line down",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌥↑",
+            "shortcutName": "Move line up",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌥↓",
+            "shortcutName": "Copy line down",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌥↑",
+            "shortcutName": "Copy line up",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘K",
+            "shortcutName": "Delete line",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘↩︎",
+            "shortcutName": "Insert line below",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘↩︎",
+            "shortcutName": "Insert line above",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘]",
+            "shortcutName": "Indent line",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘[",
+            "shortcutName": "Outdent line",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"↖",
+            "shortcutName": "Go to beginning of line",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"↘",
+            "shortcutName": "Go to end of line",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘↑",
+            "shortcutName": "Go to beginning of file",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘↓",
+            "shortcutName": "Go to end of file",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘↓",
+            "shortcutName": "Go to end of file",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘⌥[",
+            "shortcutName": "Fold region",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘/",
+            "shortcutName": "Toggle line comment",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘H",
+            "shortcutName": "Replace in files",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘F",
+            "shortcutName": "Find",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌥⌘F",
+            "shortcutName": "Replace",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌃␣",
+            "shortcutName": "Trigger suggestion",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘␣",
+            "shortcutName": "Trigger parameter hints",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘.",
+            "shortcutName": "Quick Fix",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌃G",
+            "shortcutName": "Go to Line...",
+            "infoUrlString": ""
+        }, 
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘O",
+            "shortcutName": "Go to Symbol...",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘P",
+            "shortcutName": "Go to File...",
+            "infoUrlString": ""
+        }, 
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘P",
+            "shortcutName": "Go to File...",
+            "infoUrlString": ""
+        }, 
+        {
+            "appName": "Visual Studio Code",
             "shortcut":"⌃⇧-",
             "shortcutName": "Go Forward",
             "infoUrlString": ""
@@ -11,6 +203,127 @@
             "appName": "Visual Studio Code",
             "shortcut":"⌃-",
             "shortcutName": "Go Back",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘W",
+            "shortcutName": "Close editor",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘\\",
+            "shortcutName": "Split Editor",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘1",
+            "shortcutName": "Move Focus to editor 1",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘2",
+            "shortcutName": "Move Focus to editor 2",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘3",
+            "shortcutName": "Move Focus to editor 3",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘N",
+            "shortcutName": "New File",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘O",
+            "shortcutName": "Open File...",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘S",
+            "shortcutName": "Save",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘S",
+            "shortcutName": "Save As...",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌥⌘S",
+            "shortcutName": "Save All",
+            "infoUrlString": ""
+        },
+        
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘T",
+            "shortcutName": "Reopen closed editor",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘E",
+            "shortcutName": "Show Explore",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘F",
+            "shortcutName": "Show Search",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘D",
+            "shortcutName": "Show Debug",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌃⌘G",
+            "shortcutName": "Show Source Control",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘X",
+            "shortcutName": "Show Extension",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘B",
+            "shortcutName": "Toggle Sidebar visibility",
+            "infoUrlString": ""
+        }, 
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⇧⌘P",
+            "shortcutName": "Search everywhere",
+            "infoUrlString": ""
+        }, 
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌘J",
+            "shortcutName": "Toggle Console Area",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Visual Studio Code",
+            "shortcut":"⌃⇧`",
+            "shortcutName": "Create new terminal",
             "infoUrlString": ""
         }
     ]

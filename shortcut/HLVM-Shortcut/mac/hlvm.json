@@ -156,8 +156,8 @@
                 },
                 {
                     "appName": "android studio",
-                    "shortcut": "⌘7",
-                    "shortcutName": "Show Structure window"
+                    "shortcut": "⌘1",
+                    "shortcutName": "Show Project window"
                 }
             ]
         }

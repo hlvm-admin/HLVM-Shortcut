@@ -76,6 +76,90 @@
                     "shortcutName": "Go Back"
                 }
             ]
+        },
+        {
+            "appName": "hlvm",
+            "shortcut":"",
+            "shortcutName": "Search everywhere",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘⇧O",
+                    "shortcutName": "Open Quickly"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⌃-",
+                    "shortcutName": "Go Back"
+                },
+                {
+                    "appName": "android studio",
+                    "shortcut": "⌘⌥←",
+                    "shortcutName": "Go Back"
+                }, 
+                {
+                    "appName": "Firefox",
+                    "shortcut":"⌘[",
+                    "shortcutName": "Go Back"
+                },
+                {
+                    "appName": "Safari",
+                    "shortcut":"⌘[",
+                    "shortcutName": "Go Back"
+                },
+                {
+                    "appName": "Chrome",
+                    "shortcut":"⌘[",
+                    "shortcutName": "Go Back"
+                }
+            ]
+        },
+        {
+            "appName": "hlvm",
+            "shortcut":"",
+            "shortcutName": "Toggle Bottom Console",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘⇧Y",
+                    "shortcutName": "Toggle Console (Debug) Area"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⌘J",
+                    "shortcutName": "Toggle Console Area"
+                },
+                {
+                    "appName": "android studio",
+                    "shortcut": "⌥F12",
+                    "shortcutName": "Toggle Console Area"
+                }
+            ]
+        },
+        {
+            "appName": "hlvm",
+            "shortcut":"",
+            "shortcutName": "Toggle Left Sidebar",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘0",
+                    "shortcutName": "Toggle Navigators"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⌘B",
+                    "shortcutName": "Toggle Left Sidebar"
+                },
+                {
+                    "appName": "android studio",
+                    "shortcut": "⌘7",
+                    "shortcutName": "Show Structure window"
+                }
+            ]
         }
     ]
 }

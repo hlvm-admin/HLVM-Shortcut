@@ -12,6 +12,16 @@
             "shortcut": "⌘⌥←",
             "shortcutName": "Go Back",
             "infoUrlString": ""
+        },
+        {
+            "appName": "android studio",
+            "shortcut": "⌘7",
+            "shortcutName": "Show Structure window"
+        }, 
+        {
+            "appName": "android studio",
+            "shortcut": "⌥F12",
+            "shortcutName": "Toggle Console Area"
         }
     ]
 }

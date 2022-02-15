@@ -223,8 +223,20 @@
         },
         {
             "appName": "Xcode",
-            "shortcut":"⌥⌘⇧N",
-            "shortcutName": "New Playground",
+            "shortcut":"⌘⇧T",
+            "shortcutName":"New Window",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Xcode",
+            "shortcut":"⌘T",
+            "shortcutName":"New Window Tab",
+            "infoUrlString": ""
+        },
+        {
+            "appName": "Xcode",
+            "shortcut":"⌃⌘⇧N",
+            "shortcutName": "New Swift Package",
             "infoUrlString": ""
         },
         {

@@ -3,6 +3,11 @@
     "shortcuts": [
         {
             "appName": "android studio",
+            "shortcut": "⇧⇧",
+            "shortcutName": "Search everywhere"
+        },
+        {
+            "appName": "android studio",
             "shortcut": "⌥⇧F",
             "shortcutName": "Find in Project"
         },

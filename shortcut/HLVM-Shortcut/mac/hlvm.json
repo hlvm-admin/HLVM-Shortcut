@@ -3,7 +3,7 @@
     "shortcuts": [
         {
             "appName": "hlvm",
-            "shortcut":"⌃⌥-",
+            "shortcut":"⌃⌘→",
             "shortcutName": "Go Forward",
             "infoUrlString": "",
             "shortcuts": [
@@ -41,7 +41,7 @@
         }, 
         {
             "appName": "hlvm",
-            "shortcut":"⌃-",
+            "shortcut":"⌃⌘←",
             "shortcutName": "Go Back",
             "infoUrlString": "",
             "shortcuts": [
@@ -81,7 +81,7 @@
             "appName": "hlvm",
             "shortcut":"",
             "shortcutName": "Search everywhere",
-            "infoUrlString": "",
+            "infoUrlString": "⌘⇧O",
             "shortcuts": [
                 {
                     "appName": "Xcode",
@@ -90,28 +90,13 @@
                 },
                 {
                     "appName": "visual studio code",
-                    "shortcut":"⌃-",
-                    "shortcutName": "Go Back"
+                    "shortcut":"⇧⌘P",
+                    "shortcutName": "Search everywhere"
                 },
                 {
                     "appName": "android studio",
-                    "shortcut": "⌘⌥←",
-                    "shortcutName": "Go Back"
-                }, 
-                {
-                    "appName": "Firefox",
-                    "shortcut":"⌘[",
-                    "shortcutName": "Go Back"
-                },
-                {
-                    "appName": "Safari",
-                    "shortcut":"⌘[",
-                    "shortcutName": "Go Back"
-                },
-                {
-                    "appName": "Chrome",
-                    "shortcut":"⌘[",
-                    "shortcutName": "Go Back"
+                    "shortcut": "⇧⇧",
+                    "shortcutName": "Search everywhere"
                 }
             ]
         },
@@ -119,7 +104,7 @@
             "appName": "hlvm",
             "shortcut":"",
             "shortcutName": "Toggle Bottom Console",
-            "infoUrlString": "",
+            "infoUrlString": "⌘⇧Y",
             "shortcuts": [
                 {
                     "appName": "Xcode",

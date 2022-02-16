@@ -223,12 +223,6 @@
         },
         {
             "appName": "Visual Studio Code",
-            "shortcut":"⌘\\",
-            "shortcutName": "Split Editor",
-            "infoUrlString": ""
-        },
-        {
-            "appName": "Visual Studio Code",
             "shortcut":"⌘1",
             "shortcutName": "Move Focus to editor 1",
             "infoUrlString": ""

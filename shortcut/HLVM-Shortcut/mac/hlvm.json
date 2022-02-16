@@ -171,7 +171,7 @@
         }, 
         {
             "appName": "hlvm",
-            "shortcut":"⌥⇧F",
+            "shortcut":"⌥⇧R",
             "shortcutName": "Find and Replace in Project",
             "infoUrlString": "",
             "shortcuts": [

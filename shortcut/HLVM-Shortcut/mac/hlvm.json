@@ -145,6 +145,52 @@
                     "shortcutName": "Show Project window"
                 }
             ]
+        }, 
+        {
+            "appName": "hlvm",
+            "shortcut":"⌥⇧F",
+            "shortcutName": "Find in Project",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌥⇧F",
+                    "shortcutName": "Find in Project"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⌥⇧F",
+                    "shortcutName": "Find in Project"
+                },
+                {
+                    "appName": "android studio",
+                    "shortcut": "⌥⇧F",
+                    "shortcutName": "Find in Project"
+                }
+            ]
+        }, 
+        {
+            "appName": "hlvm",
+            "shortcut":"⌥⇧F",
+            "shortcutName": "Find and Replace in Project",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘⌥⇧F",
+                    "shortcutName": "Find and Replace in Project"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⌘⇧H",
+                    "shortcutName": "Find and Replace in Project"
+                },
+                {
+                    "appName": "android studio",
+                    "shortcut": "⌘⇧R",
+                    "shortcutName": "Find and Replace in Project"
+                }
+            ]
         }
     ]
 }

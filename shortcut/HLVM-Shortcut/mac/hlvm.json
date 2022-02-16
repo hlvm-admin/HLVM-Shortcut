@@ -125,7 +125,7 @@
         },
         {
             "appName": "hlvm",
-            "shortcut":"",
+            "shortcut":"⌘0",
             "shortcutName": "Toggle Left Sidebar",
             "infoUrlString": "",
             "shortcuts": [

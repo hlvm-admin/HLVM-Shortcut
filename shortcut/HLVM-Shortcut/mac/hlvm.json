@@ -79,7 +79,7 @@
         },
         {
             "appName": "hlvm",
-            "shortcut":"",
+            "shortcut":"⌘⇧O",
             "shortcutName": "Search everywhere",
             "infoUrlString": "⌘⇧O",
             "shortcuts": [
@@ -102,7 +102,7 @@
         },
         {
             "appName": "hlvm",
-            "shortcut":"",
+            "shortcut":"⌘⇧Y",
             "shortcutName": "Toggle Bottom Console",
             "infoUrlString": "⌘⇧Y",
             "shortcuts": [

@@ -2,6 +2,11 @@
     "appName": "Visual Studio Code",
     "shortcuts": [
         {
+            "appName": "visual studio code",
+            "shortcut":"⌥⇧F",
+            "shortcutName": "Find in Project"
+        },
+        {
             "appName": "Visual studio code",
             "shortcut":"⌘⇧H",
             "shortcutName": "Find and Replace in Project"

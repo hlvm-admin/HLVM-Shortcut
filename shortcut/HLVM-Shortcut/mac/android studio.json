@@ -3,6 +3,16 @@
     "shortcuts": [
         {
             "appName": "android studio",
+            "shortcut": "⌥⇧F",
+            "shortcutName": "Find in Project"
+        },
+        {
+            "appName": "android studio",
+            "shortcut": "⌘⇧R",
+            "shortcutName": "Find and Replace in Project"
+        },
+        {
+            "appName": "android studio",
             "shortcut":"⌘⌥→",
             "shortcutName": "Go Forward",
             "infoUrlString": ""
@@ -23,7 +33,6 @@
             "shortcut": "⌘7",
             "shortcutName": "Show Structure window"
         }, 
-
         {
             "appName": "android studio",
             "shortcut": "⌥F12",

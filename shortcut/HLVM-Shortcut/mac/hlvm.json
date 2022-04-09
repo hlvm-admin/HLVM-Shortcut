@@ -191,6 +191,132 @@
                     "shortcutName": "Find and Replace in Project"
                 }
             ]
+        }, 
+        {
+            "appName": "hlvm",
+            "shortcut":"⌥1",
+            "shortcutName": "Show the first navigation tab",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘1",
+                    "shortcutName": "Navigators Project"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⇧⌘E",
+                    "shortcutName": "Show Explore"
+                }
+            ]
+        }, 
+        {
+            "appName": "hlvm",
+            "shortcut":"⌥1",
+            "shortcutName": "Show the second navigation tab",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘2",
+                    "shortcutName": "Navigators Source Control"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⇧⌘F",
+                    "shortcutName": "Show Search"
+                }
+            ]
+        },
+        {
+            "appName": "hlvm",
+            "shortcut":"⌥1",
+            "shortcutName": "Show the third navigation tab",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘3",
+                    "shortcutName": "Navigators Symbols"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⌃⇧G",
+                    "shortcutName": "Show Source Control"
+                }
+            ]
+        }, 
+        {
+            "appName": "hlvm",
+            "shortcut":"⌥1",
+            "shortcutName": "Show the fourth navigation tab",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘4",
+                    "shortcutName": "Navigators Find"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⇧⌘D",
+                    "shortcutName": "Show Debug"
+                }
+            ]
+        }, 
+         {
+            "appName": "hlvm",
+            "shortcut":"⌥1",
+            "shortcutName": "Show the fifth navigation tab",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘5",
+                    "shortcutName": "Navigators Issues"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"⇧⌘X",
+                    "shortcutName": "Show extension"
+                }
+            ]
+        }, 
+        {
+            "appName": "hlvm",
+            "shortcut":"⌥1",
+            "shortcutName": "Show the sixth navigation tab",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘6",
+                    "shortcutName": "Navigators Tests"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"",
+                    "shortcutName": ""
+                }
+            ]
+        }, 
+        {
+            "appName": "hlvm",
+            "shortcut":"⌥1",
+            "shortcutName": "Show the seventh navigation tab",
+            "infoUrlString": "",
+            "shortcuts": [
+                {
+                    "appName": "Xcode",
+                    "shortcut":"⌘7",
+                    "shortcutName": "Navigators Debug"
+                },
+                {
+                    "appName": "visual studio code",
+                    "shortcut":"",
+                    "shortcutName": ""
+                }
+            ]
         }
     ]
 }
